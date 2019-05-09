@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <user>
+        <name>Serhii</name>
+        <age>1</age>
+        <id>85462546</id>
+    </user>
+    <user>
+        <name>Vitaliy</name>
+        <age>2</age>
+        <id>50690606</id>
+    </user>
+    <user>
+        <name>Yevhen</name>
+        <age>3</age>
+        <id>32005993</id>
+    </user>
+</collection>
